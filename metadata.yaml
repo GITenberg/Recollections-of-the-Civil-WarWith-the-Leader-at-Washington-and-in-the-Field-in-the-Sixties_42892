@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41915'
     url: http://www.gutenberg.org/2009/agents/41915
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42892#Recollections-of-the-Civil-WarWith-the-Leader-at-Washington-and-in-the-Field-in-the-Sixties
 gutenberg_issued: '2013-06-08'
 gutenberg_type: Text
 identifiers:
