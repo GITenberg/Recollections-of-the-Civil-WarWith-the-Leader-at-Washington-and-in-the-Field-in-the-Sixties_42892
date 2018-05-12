@@ -1,0 +1,29 @@
+_repo: Recollections-of-the-Civil-WarWith-the-Leader-at-Washington-and-in-the-Field-in-the-Sixties_42892
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42892-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dana, Charles A. (Charles Anderson)
+    alias: Dana, Charles Anderson
+    birthdate: 1819
+    deathdate: 1897
+    gutenberg_agent_id: '41915'
+    url: http://www.gutenberg.org/2009/agents/41915
+description: ''
+gutenberg_issued: '2013-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+title: "Recollections of the Civil War\r\nWith the Leaders at Washington and in the\
+  \ Field in the Sixties"
+url: http://www.gutenberg.org/ebooks/42892
